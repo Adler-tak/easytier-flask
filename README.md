@@ -2,6 +2,7 @@
 
 این پروژه یک داشبورد وب برای نمایش زنده اطلاعات EasyTier و EasyMesh است.  
 https://github.com/Musixal/Easy-Mesh
+
 با این پروژه می‌توانید:
 
 - جدول **Route** و **Peer** را زنده مشاهده کنید.
